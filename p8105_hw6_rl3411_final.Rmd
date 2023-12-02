@@ -1,0 +1,13 @@
+---
+title: "p8105_hw6_rl3411"
+author: "rl3411"
+date: "2023-12-02"
+output: github_document
+---
+
+
+```{r}
+library(tidyverse)
+library(modelr)
+library(MASS)
+```
